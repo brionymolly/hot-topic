@@ -1,0 +1,81 @@
+/*CSS*/
+
+/*COLORS*/
+/* #9B9E4B*/
+/* #7D523F*/
+/* #F4A955*/
+/* #F47F38*/
+/* #DC4E4E*/
+
+/*FONTS*/
+/*font-family: 'Quicksand', sans-serif;
+font-family: 'EB Garamond', serif;*/
+
+
+h1 {
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    color: #DC4E4E;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+}
+
+
+/*BODY*/
+body {
+    
+}
+
+/*HEADER*/
+header {
+    text-align: center;
+}
+
+.img-logo {
+    max-width: 10%;
+    max-height: auto;
+}
+
+.masthead {
+    background-image: url("../img/hall.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 10rem;
+    padding: 2.5rem;
+}
+
+/*NAV*/
+nav {
+    margin: 0 auto;
+}
+
+a {
+    color: #DC4E4E;
+}
+
+a:hover {
+    color: #F4A955;
+    text-decoration: none;
+}
+
+/*CONTENT*/
+
+img {
+    max-width: 40%;
+    max-height: auto;
+    margin: 1rem;
+}
+
+/*FOOTER*/
+
+footer {
+    clear:both;
+}
+
+/*MEDIA FONT QUERIES*/
